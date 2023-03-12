@@ -72,7 +72,7 @@ function Card({type}) {
             <ChannelImage type={type} src={ProfileImg} alt='ProfileImg'/>
             <Texts>
               <Title>Text Video</Title>
-              <ChannelName>Lama dev</ChannelName>
+              <ChannelName>Mr.cat</ChannelName>
               <Info> 660,989 views . 1day ago </Info>
             </Texts>
         </Details>
